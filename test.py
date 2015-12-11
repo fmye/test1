@@ -51,7 +51,7 @@ newWs.write(inserRowNo, 11, "value3");
 newWs.write(inserRowNo, 12, "value1");
 newWs.write(inserRowNo, 13, "value2");
 newWs.write(inserRowNo, 14, "value3");
-newWs.write(inserRowNo, 14, "value3");
+
 
 
 first_col=newWs.col(0)       #xlwt中是行和列都是从0开始计算的
